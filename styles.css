@@ -1,0 +1,9 @@
+body{
+  text-align: center;
+  margin: 0rem auto;
+}
+
+#title{
+  background-color: blue;
+  padding: 2rem;
+}
